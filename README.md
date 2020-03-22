@@ -1,3 +1,2 @@
-# README
-Full name: Tan Yu Li, James  
-Matric number: A0196491R
+# Todo List
+Basic implementation of a todo list web application that has CRUD operations.
